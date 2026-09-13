@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LMR14050SDDAR")(type "KiCad")(uri "C:/Users/harsh/OneDrive/Desktop/EDL/EDL_P23_MON_10/Electrical_Subsystem/Libraries/LMR14050SDDAR")(options "")(descr ""))
+  (lib (name "SS54-Slkor")(type "KiCad")(uri "C:/Users/harsh/OneDrive/Desktop/EDL/EDL_P23_MON_10/Electrical_Subsystem/Libraries/SS54-Slkor/SS54-Slkor.pretty")(options "")(descr ""))
+)
